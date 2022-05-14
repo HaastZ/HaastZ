@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil
 
-### WhatsApp: 971263554
+### Contato: 971263554
 
  <div>
   <a href="https://github.com/HaastZ">
