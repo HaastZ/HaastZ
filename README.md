@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil
 
-### Contato: 971263554
+### Contato: vinicius.haastz@gmail.com
 
  <div>
   <a href="https://github.com/HaastZ">
