@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil
 
-### Contato: vinicius.haastz@gmail.com
+### E-mail: vinicius.haastz@gmail.com
 
  <div>
   <a href="https://github.com/HaastZ">
