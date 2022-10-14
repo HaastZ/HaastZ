@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao meu perfil
-
+## Olá! Sou o Vinícius. Seja Bem Vindo(a) ao meu perfil! 😀
+* Estou a procura de um estágio para adquirir experiência na área e desenvolver minhas habilidades.
 ### E-mail: vinicius.haastz@gmail.com
 
  <div>
