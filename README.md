@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vinícius. Seja Bem Vindo(a) ao meu perfil! 
 * Estou a procura de um estágio para adquirir experiência na área e desenvolver minhas habilidades.
-
+* Comecei os estudos na programação no inicio de 2022
  <div>
   <a href="https://github.com/HaastZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaastZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
