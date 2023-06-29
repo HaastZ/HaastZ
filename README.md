@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinícius. Seja Bem Vindo(a) portfólio! 
+## Olá! Eu sou o Vinícius. Seja Bem Vindo(a) ao meu portfólio! 
 * Comecei os estudos na programação no inicio de 2022
  <div>
   <a href="https://github.com/HaastZ">
